@@ -8,5 +8,6 @@ It includes separate folders for Arduino Uno (which requires a host-side Python 
 
 * **uno/**: Contains the Arduino sketch (.ino), the host-side Python script (.py), and setup instructions for using an Arduino Uno as the controller.
 * **leonardo_micro/**: Contains the Arduino sketch (.ino) and setup instructions for using an Arduino Leonardo or Micro as the controller.
+* **pico_w/**: Contains python script (.py) and setup instructions for using a Raspberry Pi Pico W as the controller.
 
 For detailed setup and usage, please refer to the `instructions.md` file within each respective folder.
